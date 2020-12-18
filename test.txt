@@ -1,6 +1,7 @@
 初めてのテキストファイル
 あかさたな
 
+aaaaaaa
 oooooo
 
 afdsafdas
